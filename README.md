@@ -1,5 +1,5 @@
-## Logback BOM
-Bill of materials for Logback.
+## Logback JSON BOM
+Bill of materials for Logback JSON.
 
 ## Usage
 In your parent POM or project POM, add the BOM to the `dependencyManagement` section:
