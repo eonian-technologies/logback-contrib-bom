@@ -34,7 +34,7 @@
     <artifactId>logback-json-bom</artifactId>
     <version>0.1.6-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>Logback JSON BOM</name>
+    <name>Eonian Logback JSON BOM</name>
     <description>Bill of material for Logback JSON.</description>
     <url>https://github.com/eonian-technologies/logback-json-bom</url>
 
