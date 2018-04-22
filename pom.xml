@@ -79,9 +79,9 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/eonian-technologies/logback-json-bom</url>
-        <connection>scm:git:https://github.com/eonian-technologies/logback-json-bom.git</connection>
-        <developerConnection>scm:git:git@github.com:eonian-technologies/logback-json-bom.git</developerConnection>
+        <url>https://github.com/eonian-technologies/logback-contrib-bom</url>
+        <connection>scm:git:https://github.com/eonian-technologies/logback-contrib-bom.git</connection>
+        <developerConnection>scm:git:git@github.com:eonian-technologies/logback-contrib-bom.git</developerConnection>
     </scm>
 
     <developers>
