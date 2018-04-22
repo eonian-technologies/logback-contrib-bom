@@ -9,7 +9,7 @@ In your parent POM or project POM, add the BOM to the `dependencyManagement` sec
         ...
         <dependency>
             <groupId>com.eoniantech.build</groupId>
-            <artifactId>logback-json-bom</artifactId>
+            <artifactId>logback-contrib-bom</artifactId>
             <version>0.1.5</version>
             <type>pom</type>
             <scope>import</scope>
@@ -19,7 +19,7 @@ In your parent POM or project POM, add the BOM to the `dependencyManagement` sec
 <dependencyManagement>
 ```
 
-Then, in the `dependencies` section of your project POM, depend on specific Logback JSON components without the version:
+Then, in the `dependencies` section of your project POM, depend on specific Logback Contrib components without the version:
 
 ```
 <dependencies>
